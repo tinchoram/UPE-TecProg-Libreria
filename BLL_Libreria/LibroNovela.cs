@@ -16,11 +16,20 @@ namespace BLL
 
         public override string GetDetalle()
         {
-            string detalle = "";
+            try
+            {
+                string detalle = "";
 
-            detalle += "Novela Genero: " + this._genero;
+                detalle += "Novela Genero: " + this._genero;
 
-            return detalle;
+                return detalle;
+
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
 
     }

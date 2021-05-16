@@ -16,14 +16,23 @@ namespace BLL
 
         public override string GetDetalle()
         {
-            string detalle = "";
-
-            if (this._cd)
+            try
             {
-                detalle += "Contiene un CD adicional";
-            }
+                string detalle = "";
 
-            return detalle; 
+                if (this._cd)
+                {
+                    detalle += "Contiene un CD adicional";
+                }
+
+                return detalle;
+
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
 
         public override double GetPrecio()

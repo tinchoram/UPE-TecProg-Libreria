@@ -19,7 +19,15 @@ namespace BLL
 
         public void AddItem(Item unItem)
         {
-            this._items.Add(unItem);  
+            try
+            {
+                this._items.Add(unItem);
+            }
+            catch (Exception)
+            {
+
+                throw;
+            } 
         }
 
         public string FacturarItems()

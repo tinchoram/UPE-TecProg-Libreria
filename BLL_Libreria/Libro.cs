@@ -19,7 +19,7 @@ namespace BLL
             this._name = name;
             this._autor = autor;
             this._precio = precio;
-            Console.WriteLine("Libro Creado");
+            //Console.WriteLine("Libro Creado");
         }
 
         public string Name
@@ -34,12 +34,10 @@ namespace BLL
         {
             get { return this._isbn; }
         }
-
         public virtual double GetPrecio()
         {
             return this._precio;
         }
-
         public abstract string GetDetalle();
         
 
