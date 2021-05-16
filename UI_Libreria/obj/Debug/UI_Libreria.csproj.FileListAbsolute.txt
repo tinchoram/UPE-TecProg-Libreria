@@ -1,0 +1,13 @@
+C:\Users\Tinchoram\Google Drive\UPE\TecProg-2021\Code\Libreria\UI_Libreria\bin\Debug\UI_Libreria.exe.config
+C:\Users\Tinchoram\Google Drive\UPE\TecProg-2021\Code\Libreria\UI_Libreria\bin\Debug\UI_Libreria.exe
+C:\Users\Tinchoram\Google Drive\UPE\TecProg-2021\Code\Libreria\UI_Libreria\bin\Debug\UI_Libreria.pdb
+C:\Users\Tinchoram\Google Drive\UPE\TecProg-2021\Code\Libreria\UI_Libreria\bin\Debug\BLL_Libreria.dll
+C:\Users\Tinchoram\Google Drive\UPE\TecProg-2021\Code\Libreria\UI_Libreria\bin\Debug\BLL_Libreria.pdb
+C:\Users\Tinchoram\Google Drive\UPE\TecProg-2021\Code\Libreria\UI_Libreria\obj\Debug\UI_Libreria.csprojAssemblyReference.cache
+C:\Users\Tinchoram\Google Drive\UPE\TecProg-2021\Code\Libreria\UI_Libreria\obj\Debug\UI_Libreria.Properties.Resources.resources
+C:\Users\Tinchoram\Google Drive\UPE\TecProg-2021\Code\Libreria\UI_Libreria\obj\Debug\UI_Libreria.csproj.GenerateResource.cache
+C:\Users\Tinchoram\Google Drive\UPE\TecProg-2021\Code\Libreria\UI_Libreria\obj\Debug\UI_Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Tinchoram\Google Drive\UPE\TecProg-2021\Code\Libreria\UI_Libreria\obj\Debug\UI_Libreria.csproj.CopyComplete
+C:\Users\Tinchoram\Google Drive\UPE\TecProg-2021\Code\Libreria\UI_Libreria\obj\Debug\UI_Libreria.exe
+C:\Users\Tinchoram\Google Drive\UPE\TecProg-2021\Code\Libreria\UI_Libreria\obj\Debug\UI_Libreria.pdb
+C:\Users\Tinchoram\Google Drive\UPE\TecProg-2021\Code\Libreria\UI_Libreria\obj\Debug\UI_Libreria.FromLibreria.resources

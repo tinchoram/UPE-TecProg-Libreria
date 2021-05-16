@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI_Libreria", "UI_Libreria\UI_Libreria.csproj", "{C60C9D8B-F04B-4027-8950-491361FEB4B9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FC39E7C2-9025-4F07-8198-AE1AAB4CE67A} = {FC39E7C2-9025-4F07-8198-AE1AAB4CE67A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL_Libreria", "BLL_Libreria\BLL_Libreria.csproj", "{FC39E7C2-9025-4F07-8198-AE1AAB4CE67A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C60C9D8B-F04B-4027-8950-491361FEB4B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60C9D8B-F04B-4027-8950-491361FEB4B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60C9D8B-F04B-4027-8950-491361FEB4B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60C9D8B-F04B-4027-8950-491361FEB4B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC39E7C2-9025-4F07-8198-AE1AAB4CE67A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC39E7C2-9025-4F07-8198-AE1AAB4CE67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC39E7C2-9025-4F07-8198-AE1AAB4CE67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC39E7C2-9025-4F07-8198-AE1AAB4CE67A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45FE68FE-5CB1-4BC8-A6EC-A2C9325EC9C1}
+	EndGlobalSection
+EndGlobal

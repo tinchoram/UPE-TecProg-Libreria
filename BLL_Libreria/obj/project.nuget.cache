@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EtZO7JObqGokAudHYkYS/SIokzziuTR16gWI9qMDgKWCtgJh8Uttfc7YeEprHISyJhjIsEeCHnMZlFiUs+4UrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tinchoram\\Google Drive\\UPE\\TecProg-2021\\Code\\Libreria\\BLL_Libreria\\BLL_Libreria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tinchoram\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Tinchoram\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

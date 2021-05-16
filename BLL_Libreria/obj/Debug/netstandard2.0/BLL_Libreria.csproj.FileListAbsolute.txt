@@ -1,0 +1,9 @@
+C:\Users\Tinchoram\Google Drive\UPE\TecProg-2021\Code\Libreria\BLL_Libreria\bin\Debug\netstandard2.0\BLL_Libreria.deps.json
+C:\Users\Tinchoram\Google Drive\UPE\TecProg-2021\Code\Libreria\BLL_Libreria\bin\Debug\netstandard2.0\BLL_Libreria.dll
+C:\Users\Tinchoram\Google Drive\UPE\TecProg-2021\Code\Libreria\BLL_Libreria\bin\Debug\netstandard2.0\BLL_Libreria.pdb
+C:\Users\Tinchoram\Google Drive\UPE\TecProg-2021\Code\Libreria\BLL_Libreria\obj\Debug\netstandard2.0\BLL_Libreria.csprojAssemblyReference.cache
+C:\Users\Tinchoram\Google Drive\UPE\TecProg-2021\Code\Libreria\BLL_Libreria\obj\Debug\netstandard2.0\BLL_Libreria.AssemblyInfoInputs.cache
+C:\Users\Tinchoram\Google Drive\UPE\TecProg-2021\Code\Libreria\BLL_Libreria\obj\Debug\netstandard2.0\BLL_Libreria.AssemblyInfo.cs
+C:\Users\Tinchoram\Google Drive\UPE\TecProg-2021\Code\Libreria\BLL_Libreria\obj\Debug\netstandard2.0\BLL_Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Tinchoram\Google Drive\UPE\TecProg-2021\Code\Libreria\BLL_Libreria\obj\Debug\netstandard2.0\BLL_Libreria.dll
+C:\Users\Tinchoram\Google Drive\UPE\TecProg-2021\Code\Libreria\BLL_Libreria\obj\Debug\netstandard2.0\BLL_Libreria.pdb
